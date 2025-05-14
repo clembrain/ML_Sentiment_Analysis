@@ -56,7 +56,7 @@ This project explores how **sentiment analysis** and **text mining** can extract
 - Recipe-level sentiment breakdowns
 ---
 
-![Top 10 recipes](images/Sentiment.png)
+![Top 10 recipes](images/Sentiment_1.png)
 Figure 1: The code above was used to visualise top 10 recipes that customer had either rated or reviewed.
 
 ---
