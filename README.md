@@ -36,6 +36,13 @@ This project explores how **sentiment analysis** and **text mining** can extract
 - Most and least reviewed recipes
 - Distribution of star ratings
 
+---
+
+![Top 10 recipes](/Images/Sentiment_1.png)
+Figure 1: The code above was used to visualise top 10 recipes that customer had either rated or reviewed.
+
+---
+
 ### 3. Sentiment Analysis
 - **VADER** for compound, positive, neutral, and negative scores
 - Visualized review polarity across recipes
@@ -49,15 +56,31 @@ This project explores how **sentiment analysis** and **text mining** can extract
 
 ---
 
+![Star ratings](/Images/star_ratings.png)
+Figure 2: Above is the visual of the distribution of star ratings using count plot.
+
+---
+
+![SMOTE](/Images/SMOTE_Star_rating.png)
+Figure 3: Visualising the smote class distribution using count plot.
+
+---
+
 ## 📊 Visualizations
 - Count plots of star ratings
 - Word clouds for positive and negative reviews
 - Top frequent terms in each sentiment category
 - Recipe-level sentiment breakdowns
+
 ---
 
-![Top 10 recipes](/Images/Sentiment_1.png)
-Figure 1: The code above was used to visualise top 10 recipes that customer had either rated or reviewed.
+![negative reviewers](/Images/negative_reviews.png)
+Figure 4: Above are common words used by the negative reviewers with the larger words most frequent
+
+---
+
+![positive reviewers](/Images/positive_reviews.png)
+Figure 5: Above are common words used by the positive reviewers with the larger words most frequent
 
 ---
 
