@@ -130,6 +130,7 @@ Figure 6: Above are common words used by the positive reviewers with the larger 
 ## 🙋 About Me
 **Clement** — Data Engineer & AI Specialist passionate about real-world NLP applications and data-driven impact.
 
-Let’s connect on [LinkedIn](#)!
+🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/clement-airiohuodion-268279220)  
+🔗 **GitHub**: [github.com/Clemobrain](https://github.com/Clemobrain)
 
-
+---
