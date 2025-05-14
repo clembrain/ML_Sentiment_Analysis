@@ -54,8 +54,11 @@ This project explores how **sentiment analysis** and **text mining** can extract
 - Word clouds for positive and negative reviews
 - Top frequent terms in each sentiment category
 - Recipe-level sentiment breakdowns
+---
+
 ![Top 10 recipes](images/Sentiment.png)
 Figure 1: The code above was used to visualise top 10 recipes that customer had either rated or reviewed.
+
 ---
 
 ## 📌 Key Findings
