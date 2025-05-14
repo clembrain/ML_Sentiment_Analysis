@@ -66,6 +66,11 @@ Figure 3: Visualising the smote class distribution using count plot.
 
 ---
 
+![Accuracy](/Images/Accuracy.png)
+Figure 4: Above is the result of 0.62 accuracy
+
+---
+
 ## 📊 Visualizations
 - Count plots of star ratings
 - Word clouds for positive and negative reviews
@@ -75,12 +80,12 @@ Figure 3: Visualising the smote class distribution using count plot.
 ---
 
 ![negative reviewers](/Images/negative_reviews.png)
-Figure 4: Above are common words used by the negative reviewers with the larger words most frequent
+Figure 5: Above are common words used by the negative reviewers with the larger words most frequent
 
 ---
 
 ![positive reviewers](/Images/positive_reviews.png)
-Figure 5: Above are common words used by the positive reviewers with the larger words most frequent
+Figure 6: Above are common words used by the positive reviewers with the larger words most frequent
 
 ---
 
